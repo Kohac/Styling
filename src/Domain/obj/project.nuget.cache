@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDkodwrQr90=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Domain\\Example.Styling.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\sonaranalyzer.csharp\\9.29.0.95321\\sonaranalyzer.csharp.9.29.0.95321.nupkg.sha512"
+  ],
+  "logs": []
+}

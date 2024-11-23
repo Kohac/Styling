@@ -1,0 +1,6 @@
+@Example.Styling.Api_HostAddress = http://localhost:5231
+
+GET {{Example.Styling.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

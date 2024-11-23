@@ -1,0 +1,17 @@
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Infrastructure.deps.json
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Infrastructure.runtimeconfig.json
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Infrastructure.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Infrastructure.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Domain.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\bin\Debug\net8.0\Example.Styling.Domain.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example..8542C4F4.Up2Date
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\refint\Example.Styling.Infrastructure.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\Example.Styling.Infrastructure.genruntimeconfig.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Infrastructure\obj\Debug\net8.0\ref\Example.Styling.Infrastructure.dll

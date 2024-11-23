@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Example.Styling.Application/1.0.0": {
+        "dependencies": {
+          "Example.Styling.Domain": "1.0.0",
+          "SonarAnalyzer.CSharp": "9.29.0.95321"
+        },
+        "runtime": {
+          "Example.Styling.Application.dll": {}
+        }
+      },
+      "SonarAnalyzer.CSharp/9.29.0.95321": {},
+      "Example.Styling.Domain/1.0.0": {
+        "dependencies": {
+          "SonarAnalyzer.CSharp": "9.29.0.95321"
+        },
+        "runtime": {
+          "Example.Styling.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example.Styling.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SonarAnalyzer.CSharp/9.29.0.95321": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dAvGL7gavcUYk83p1StVzvMFcbwN4hr08hjthsRr/wR/uPFgjd7LUn7QGN/1iH92aA7P72x06RRNtdUAqmVHdw==",
+      "path": "sonaranalyzer.csharp/9.29.0.95321",
+      "hashPath": "sonaranalyzer.csharp.9.29.0.95321.nupkg.sha512"
+    },
+    "Example.Styling.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

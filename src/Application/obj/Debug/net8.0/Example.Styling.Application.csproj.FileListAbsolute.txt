@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\Example.Styling\src\Application\bin\Debug\net8.0\Example.Styling.Application.deps.json
+C:\Users\lukas\source\repos\Example.Styling\src\Application\bin\Debug\net8.0\Example.Styling.Application.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Application\bin\Debug\net8.0\Example.Styling.Application.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\refint\Example.Styling.Application.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\ref\Example.Styling.Application.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Application\bin\Debug\net8.0\Example.Styling.Domain.dll
+C:\Users\lukas\source\repos\Example.Styling\src\Application\bin\Debug\net8.0\Example.Styling.Domain.pdb
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example.Styling.Application.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Example.Styling\src\Application\obj\Debug\net8.0\Example..72FCE7B6.Up2Date

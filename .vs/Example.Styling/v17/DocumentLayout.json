@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\infrastructure\\example.styling.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|solutionrelative:src\\infrastructure\\example.styling.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\api\\example.styling.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|solutionrelative:src\\api\\example.styling.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|solutionrelative:src\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\infrastructure\\data\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\infrastructure\\data\\addressmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\addressmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\infrastructure\\data\\abstraction\\entitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\abstraction\\entitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0659B0-1D2E-47AF-8B93-D2CCC234C778}|src\\Infrastructure\\Example.Styling.Infrastructure.csproj|solutionrelative:src\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|c:\\users\\lukas\\source\\repos\\example.styling\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70549CC5-AFB4-4694-A514-95160D111865}|src\\Api\\Example.Styling.Api.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Example.Styling.Api.http",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Example.Styling.Api.http",
+              "RelativeDocumentMoniker": "src\\Api\\Example.Styling.Api.http",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Example.Styling.Api.http",
+              "RelativeToolTip": "src\\Api\\Example.Styling.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-15T21:29:44.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T17:52:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\CustomerMapping.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\CustomerMapping.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\CustomerMapping.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\CustomerMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:26:49.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityMapping.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\Abstraction\\EntityMapping.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Abstraction\\EntityMapping.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\Abstraction\\EntityMapping.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Abstraction\\EntityMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:12:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressMapping.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\AddressMapping.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\AddressMapping.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Data\\AddressMapping.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\AddressMapping.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:01:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:46:38.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:14:19.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example.Styling.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Example.Styling.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Example.Styling.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Infrastructure\\Example.Styling.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Example.Styling.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T18:45:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\Example.Styling\\src\\Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T19:11:56.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
